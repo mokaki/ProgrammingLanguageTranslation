@@ -26,3 +26,6 @@
 ---
 
 - [易语言是一个自主开发，适合国情，不同层次不同专业的人员易学易用的汉语编程语言](https://baike.baidu.com/item/%E6%98%93%E8%AF%AD%E8%A8%80)
+
+
+-[易语言那么不入流吗？](https://www.zhihu.com/question/19770358)
